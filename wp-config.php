@@ -26,7 +26,7 @@ define('DB_NAME', 'i4385722_wp1');
 define('DB_USER', 'i4385722_wp1');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Q.Yz~G&9LLUF#v60#L^58&&7');
+define('DB_PASSWORD', 'Welcome@123');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
